@@ -86,3 +86,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.footer {
+  text-align: center;
+}
